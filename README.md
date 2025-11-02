@@ -63,3 +63,7 @@ was given to graphics.
 **v01:** Symbol begins as a minimalist symbolic kernel (symbolback).  
 **v03:** It grows into a full-stack framework (symbolfull).  
 **v05:** Finally, it awakens as Symbol OS - a chat-like monochrome operating system of the symbolic world.
+
+## Sneakpeek
+
+![](sshot.png)
