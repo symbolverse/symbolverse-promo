@@ -42,7 +42,7 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
    (kernel = match + verse + prose).  
 2. It grows into a **backend programming framework**  
    (Symp = kernel + back).  
-3. Finally, it awakens as a monochrome **Symbol OS**  
+3. Finally, it awakens as a full stack monochrome **Symbol OS**  
    (Symbol OS = Symp + fore).
 
 ---
