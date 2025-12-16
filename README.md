@@ -14,7 +14,7 @@ A place where someone can sit, write a bit of symbolic code, **express ideas cle
 
 In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis of simplicity and minimalism** arose.
 
-There is no graphical user interface, only text mode. There are no millions of colors, only monochrome tint. Instead, the **balance of structure** emerges behind.
+There is no graphical user interface, only text mode. There are no millions of colors, only a monochrome tint. From this setup, the **balance of structure** emerges behind.
 
 We intentionally trade the visual decoration for **clarity of meaning**. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
 
