@@ -2,9 +2,9 @@
 // WORK IN PROGRESS //
 ```
 
-# The Symbol-OS
+# Symbol-OS
 
-a thinking environment for expressing clear thoughts  
+a thinking environment for expressing clear thoughts
 
 ## About
 
