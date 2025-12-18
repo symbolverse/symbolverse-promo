@@ -1,6 +1,6 @@
 # The Symbol-OS
 
-a thinking environment for expressing clear thoughts
+a thinking environment for expressing clear thoughts  
 
 ## About
 
