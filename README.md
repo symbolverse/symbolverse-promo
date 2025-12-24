@@ -16,6 +16,8 @@ Not a product nor a platform. More like a thought interface. A **modern-day Fort
 
 A place where someone can sit, write a bit of symbolic code, **express ideas cleanly**, and feel their mind come back into focus.
 
+A honest resort for avoiding biased opinions and imaginary claims in a favor of argumentative chain of facts expressed in a formal way.
+
 ---
 
 ## Philosophy
