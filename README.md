@@ -2,7 +2,7 @@
 // WORK IN PROGRESS //
 ```
 
-# Symbol-OS
+# Symbol-mind
 
 formally assisted thinking environment
 
