@@ -16,7 +16,7 @@ Not a product nor a platform. More like a **thought interface**. A modern day Li
 
 A place where someone can sit, write a bit of symbolic code, **express ideas cleanly**, and feel their mind come back into focus.
 
-The **ideas may be documented** in required depth using a simple document interface.
+The **ideas may be documented** for later reflections using a simple document interface.
 
 ---
 
