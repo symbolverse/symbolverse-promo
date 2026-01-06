@@ -4,11 +4,11 @@
 
 # Symbolverse
 
-formally assisted thinking environment  
+formally assisted thinking environment
 
 ---
 
-## About
+## The essence
 
 A small, humane, calm, **symbolic computing environment** where someone can think more clearly and program things that matter to them.
 
