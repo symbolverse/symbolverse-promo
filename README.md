@@ -38,7 +38,7 @@ Many intellectual tasks could be performed using Symbolverse tools to formalize 
 
 Formalizations may involve **fact analysis and synthesis**, **task planning and optimization**, or **theory verifying and proving**.
 
-The main intention is to serve as a **truth validation medium** assisting in discovering the right facts for making the right decisions.
+The main intention is to serve as a **truth validation medium** assisting in deducing the right facts for making the right decisions.
 
 ```
 // WORK IN PROGRESS //
