@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-formally assisted workflow producing environment
+a formally assisted environment for symbolic workflows
 
 ---
 
