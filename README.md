@@ -12,9 +12,9 @@ a formally assisted environment for symbolic workflows
 
 A small, humane, calm **symbolic computing environment** where someone can think more clearly and program things that matter to them.
 
-Not a product nor a platform. More like a **thought interface**. A modern day Lisp, Forth, or Metamath used to build up reliable workflows.
+Not a product nor a platform. More like a **thought interface**. A modern day Lisp, Forth, or Metamath used to build up **reliable workflows**.
 
-A place where someone can sit, write a bit of symbolic code, **express workflows cleanly**, and check their correctness before execution.
+A place where someone can sit, write a bit of symbolic code, express workflows cleanly, and **check their correctness** before execution.
 
 The **workflows may be documented** and memorized for later references.
 
