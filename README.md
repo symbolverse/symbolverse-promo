@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-a formally assisted environment for symbolic workflows
+a correctness checking environment for managing symbolic workflows
 
 ---
 
