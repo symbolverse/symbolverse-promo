@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-a correctness checking environment for managing symbolic workflows
+a structural soundness checking environment for managing symbolic workflows
 
 ---
 
