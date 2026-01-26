@@ -38,7 +38,7 @@ Symbolverse is not a semantic validator. It is a **workflow structural referee**
 
 Symbolverse **does not** decide correctness, feasibility, truth, or optimality. What it **does** is check that every step can accept what the previous step produces, check that required capabilities exist, ensure no impossible structural access occurs, and allow pessimistic, optimistic, or exact control flow analysis. This makes Symbolverse a **structural contract checker** for symbolic workflows.
 
-Symbolverse takes an **input of a workflow** described as symbolic expressions, interface declarations for each step/tool, and optional casts where uncertainty exists. After static analysis, Symbolverse may produce the output of **structural confirmation** or **precise structural errors**. Reported errors include missing capability, invalid projection, or incompatible interface, all caught before they show up at the runtime.
+Symbolverse takes an **input of a workflow** described as symbolic expressions, interface declarations for each step/tool, and optional casts where uncertainty exists. After static analysis, it may produce the output of **structural confirmation** or **precise structural errors**. Reported errors include missing capability, invalid projection, or incompatible interface, all caught before they show up at the runtime.
 
 Symbolverse represents guardrails, a filter, or a validator. It is able to say “this is nonsense” before we dive into the execution. It rejects structurally impossible plans, requests casts where assumptions are needed, and never lies about certainty. It doesn't promise sentience, truth, or intelligence. It promises structure.
 
