@@ -22,11 +22,11 @@ The **workflows may be documented** and memorized for later references.
 
 ## The Seed
 
-In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis of simplicity and minimalism** arises.
+In a world where the majority chases beautiful but complex graphical interfaces, a small oasis of **simplicity and minimalism** arises.
 
-No graphical user interface, only text mode. No millions of colors, only a chat-like command line interface or network access. No noise and fuss, only the structured plan of your interest.
+No graphical user interface, only text mode. No millions of colors, only a chat-like command line interface or network access.
 
-We intentionally trade the visual decoration for **clarity of form**. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
+We intentionally trade the visual decoration for **clarity of form**. The conceptual depth is placed exactly at the right places.
 
 From this seed, and without unnecessary features, we bring the Symbolverse into existence.
 
