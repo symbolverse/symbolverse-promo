@@ -36,7 +36,7 @@ From this seed, and without unnecessary features, we bring the Symbolverse into 
 
 Symbolverse is not a semantic validator. It is a **structural referee**. Think of workflows like task pipelines, decision trees, multi-step plans, tool-call sequences, or agent coordination scripts. Given a symbolic workflow produced by a human or a machine, Symbolverse answers: “Is this workflow structurally coherent under the declared interfaces?”
 
-Symbolverse **does not** decide correctness, decide feasibility, decide truth, or decide optimality. What id **does** is check that every step can accept what the previous step produces, check that required capabilities exist, ensure no impossible structural access occurs, and allow pessimistic, optimistic, or exact control flows. This makes Symbolverse a **structural contract checker** for symbolic workflows.
+Symbolverse **does not** decide correctness, decide feasibility, decide truth, or decide optimality. What id **does** is check that every step can accept what the previous step produces, check that required capabilities exist, ensure no impossible structural access occurs, and allow pessimistic, optimistic, or exact control flow analysis. This makes Symbolverse a **structural contract checker** for symbolic workflows.
 
 Provided an **input of a workflow** described as symbolic expressions, interface declarations for each step/tool, and optional casts where uncertainty exists, Symbolverse produces the **output of structurally confirmation** or precise structural errors (missing capability, invalid projection, incompatible interface.) In other words, Symbolverse statically intercepts structural errors before they show up at the runtime.
 
