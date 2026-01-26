@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-formally assisted thinking environment
+formally assisted workflow producing environment
 
 ---
 
