@@ -10,7 +10,7 @@ a computing environment for symbolic workflows written, checked, and reasoned ab
 
 ## The Essence
 
-A small **workflow processing environment** where someone can clearly reason about multi-step plans and program things that matter to them.
+A small **workflow processing environment** where one can clearly reason about multi-step plans and program things that matter to them.
 
 Not a product nor a platform. More like a **thought interface**. A modern day Lisp, Forth, or Metamath used to build up **reliable workflows**.
 
