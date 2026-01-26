@@ -14,7 +14,7 @@ A small, humane, calm **symbolic computing environment** where someone can think
 
 Not a product nor a platform. More like a **thought interface**. A modern day Lisp, Forth, or Metamath used to build up reliable workflows.
 
-A place where someone can sit, write a bit of symbolic code, **express workflows cleanly**, and check whether they meet the correct form.
+A place where someone can sit, write a bit of symbolic code, **express workflows cleanly**, and check them for correctness before execution.
 
 The **workflows may be documented** and memorized for later references.
 
