@@ -34,7 +34,7 @@ From this seed, and without unnecessary features, we bring the Symbolverse into 
 
 ## The Fruits
 
-Symbolverse is not a planner, optimizer, nor an AI. It is a **structural referee**. Think of workflows like task pipelines, decision trees, multi-step plans, tool-call sequences, or agent coordination scripts. Given a symbolic workflow produced by a human or a machine, Symbolverse answers: “Is this workflow structurally coherent under the declared interfaces?”
+Symbolverse is not a semantic validator. It is a **structural referee**. Think of workflows like task pipelines, decision trees, multi-step plans, tool-call sequences, or agent coordination scripts. Given a symbolic workflow produced by a human or a machine, Symbolverse answers: “Is this workflow structurally coherent under the declared interfaces?”
 
 Symbolverse **does not** decide correctness, decide feasibility, decide truth, or decide optimality. What id **does** is check that every step can accept what the previous step produces, check that required projections exist, ensure no impossible structural access occurs, and allow control flows with explicit `Cast`. This makes Symbolverse a **structural contract checker** for symbolic workflows.
 
