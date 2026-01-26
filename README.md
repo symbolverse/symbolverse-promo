@@ -14,7 +14,7 @@ A small, humane, calm **symbolic computing environment** where someone can think
 
 Not a product nor a platform. More like a **thought interface**. A modern day Lisp, Forth, or Metamath used to build up reliable workflows.
 
-A place where someone can sit, write a bit of symbolic code, **express workflows cleanly**, and check whether they meet a correct form.
+A place where someone can sit, write a bit of symbolic code, **express workflows cleanly**, and check whether they meet the correct form.
 
 The **workflows may be documented** and memorized for later references.
 
@@ -40,7 +40,7 @@ Symbolverse **does not** decide correctness, decide feasibility, decide truth, o
 
 Provided an **input of a workflow** described as symbolic expressions, interface declarations for each step/tool, and optional casts where uncertainty exists, Symbolverse produces the output of **structural confirmation** or **precise structural errors** (missing capability, invalid projection, incompatible interface.) In other words, Symbolverse statically intercepts structural errors before they show up at the runtime.
 
-Symbolverse represents guardrails, filter, or validator. It is able to say “this is nonsense” before we dive into the execution. It rejects structurally impossible plans, requests casts where assumptions are needed, and never lies about certainty. It doesn't promise sentience, truth, or intelligence. **It promises structure**.
+Symbolverse represents guardrails, a filter, or a validator. It is able to say “this is nonsense” before we dive into the execution. It rejects structurally impossible plans, requests casts where assumptions are needed, and never lies about certainty. It doesn't promise sentience, truth, or intelligence. **It promises structure**.
 
 ```
 // WORK IN PROGRESS //
