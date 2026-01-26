@@ -10,11 +10,11 @@ a structural soundness checking environment for managing symbolic workflows
 
 ## The Essence
 
-A small, humane, calm **symbolic computing environment** where someone can think more clearly and program things that matter to them.
+A small, humane, calm **symbolic computing environment** where someone can think more clearly about multi-step plans and program things that matter to them.
 
 Not a product nor a platform. More like a **thought interface**. A modern day Lisp, Forth, or Metamath used to build up **reliable workflows**.
 
-A place where someone can sit, write a bit of symbolic code, express workflows cleanly, and **check their correctness** before execution.
+A place where someone can sit, write a bit of symbolic code, express workflows cleanly, and **check their structural admissibility** before execution.
 
 The **workflows may be documented** and memorized for later references.
 
@@ -24,7 +24,7 @@ The **workflows may be documented** and memorized for later references.
 
 In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis of simplicity and minimalism** arises.
 
-No graphical user interface, only text mode. No millions of colors, only a monochrome tint. Following this setup, the **balanced structure** emerges behind.
+No graphical user interface, only text mode. No millions of colors, only a monochrome tint. No noise and fuss, only you and the structured plan of your interest.
 
 We intentionally trade the visual decoration for **clarity of form**. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
 
