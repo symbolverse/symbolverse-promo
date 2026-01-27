@@ -12,7 +12,7 @@ a computing environment for symbolic workflows you can validate before you run t
 
 A small **symbolic workflow processing environment** where one can formally reason about and run multi-step plans in production processes.
 
-Intentional determination to focus **not on value depended, but on structural consistency** of workflows allows it to be decidable while keeping its expressiveness.
+Focusing **not on value depended, but on structural consistency**, this intentional determination allows the system to be decidable while keeping its expressiveness.
 
 By checking workflow structural soundness before its execution, the automation pre-flight structural analyzer is able to **detect errors before they show up in the production process**.
 
