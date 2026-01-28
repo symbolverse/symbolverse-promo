@@ -38,9 +38,9 @@ Symbolverse represents guardrails, a filter, or a validator. It is able to say â
 
 ---
 
-## The 30-Second Demo
+## The 35-Second Demo
 
-### Step 1 â€” Declare the tools (5 seconds)
+### Step 1 â€” Declare the tools (10 seconds)
 
 ```
 (SYMP
@@ -71,11 +71,11 @@ Symbolverse represents guardrails, a filter, or a validator. It is able to say â
         (RESULT
           ((Eq channel "email")
             (SendEmail (Cast payload (EmailPayload "abc" "abc" "abc")))
-            (SendSMS   (Cast payload (SMSPayload   "123" "abc"      ))))
+            (SendSMS   (Cast payload (SMSPayload   "123" "abc"      ))))))
       
       (ENTAILS
         (PRODUCT String (UNION EmailPayload SMSPayload))
-        String))))
+        (UNION SendEmail SendSMS)))))
 ```
 
 These are just tool contracts. No execution.
