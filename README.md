@@ -12,6 +12,8 @@ a computing environment for symbolic workflows you can reason about before you r
 
 In a world of beautiful but complex graphical interfaces, a small oasis of **simplicity and minimalism** arises. No graphical user interface, only text mode. No millions of colors, only a **chat-like command line or network interface** access. We intentionally trade the visual decoration for **balanced theoretical background**. From this seed, and without unnecessary features, we bring the Symbolverse into existence.
 
+---
+
 ## The Fruits
 
 A small **symbolic workflow processing environment** where one can formally reason about and run multi-step plans in production processes.
