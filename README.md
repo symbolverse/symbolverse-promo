@@ -18,7 +18,7 @@ A small **symbolic workflow processing environment** where one can formally reas
 
 Focusing **not on value dependent but on structural consistency**, this intentional determination allows the system to be decidable while keeping its expressiveness.
 
-By checking workflow structural soundness before its execution, the automation pre-flight structural analyzer is able to **detect errors before they show up in the production process**.
+By checking workflow structural soundness before its execution, the automation pre-run structural analyzer is able to **detect errors before they show up in the production process**.
 
 Minding anyone shipping automation they can’t afford to debug at runtime, the workflows are processed within the Symbolverse UI.
 
