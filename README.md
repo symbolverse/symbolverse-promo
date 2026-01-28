@@ -36,6 +36,82 @@ Symbolverse takes an **input of a workflow** described as symbolic expressions, 
 
 Symbolverse represents guardrails, a filter, or a validator. It is able to say “this is nonsense” before we dive into the execution. It rejects structurally impossible plans, requests casts where assumptions are needed, and never lies about certainty. It doesn't promise sentience, truth, or intelligence. It promises structure.
 
+---
+
+## The 30-Second Demo
+
+### Step 1 — Declare the tools (5 seconds)
+
+```
+(SYMP
+  (ID SendEmail
+    (EXPECTS
+      (PARAMS payload)
+      (PRODUCT EmailPayload)))
+
+  (ID SendSMS
+    (EXPECTS
+      (PARAMS payload)
+      (PRODUCT SMSPayload)))
+
+  (ID EmailPayload
+    (EXPECTS
+      (PARAMS to subject body)
+      (PRODUCT String String String)))
+
+  (ID SMSPayload
+    (EXPECTS
+      (PARAMS to text)
+      (PRODUCT String String)))
+
+  (ID Notify
+    (EXPECTS
+      (FUNCTION
+        (PARAMS channel payload)
+        (RESULT
+          ((Eq channel "email")
+            (SendEmail (Cast payload (EmailPayload "abc" "abc" "abc")))
+            (SendSMS   (Cast payload (SMSPayload   "123" "abc"      ))))
+      
+      (ENTAILS
+        (PRODUCT String (UNION EmailPayload SMSPayload))
+        String))))
+```
+
+These are just tool contracts. No execution.
+
+### Step 2 — The agent produces a plan (10 seconds)
+
+```
+(Notify "email"
+  (SMSPayload
+    "+1555123456"
+    "Hello!"))
+```
+
+This plan *looks* fine. It parses. It’s what agents produce all the time.
+
+### Step 3 — Symbolverse refuses to run (10 seconds)
+
+```
+✗ Structural error
+
+Branch condition: channel == "email"
+'Notify' casting error
+Required: 'EmailPayload'
+Provided: 'SMSPayload'
+
+This plan is structurally inadmissible.
+```
+
+...
+
+### Step 4 — The punchline (5 seconds)
+
+This would normally fail at runtime.
+
+Symbolverse refuses to run it *at all*.
+
 ```
 // WORK IN PROGRESS //
 ```
