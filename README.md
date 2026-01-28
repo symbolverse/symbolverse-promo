@@ -79,7 +79,10 @@ Symbolverse represents guardrails, a filter, or a validator. It is able to say â
                 (SMSPayload "123" "abc"))))))
       
       (ENTAILS
-        (PRODUCT String (UNION EmailPayload SMSPayload))
+        (PRODUCT
+          String
+          (UNION EmailPayload SMSPayload))
+        
         (UNION SendEmail SendSMS)))))
 ```
 
