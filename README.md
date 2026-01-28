@@ -38,7 +38,7 @@ Symbolverse represents guardrails, a filter, or a validator. It is able to say �
 
 ---
 
-## The 35-Second Demo
+## The 40-Second Demo
 
 ### Step 1 — Declare the tools (10 seconds)
 
@@ -106,7 +106,7 @@ This plan is structurally inadmissible.
 ```
 
 
-### Step 4 — The punchline (5 seconds)
+### Step 4 — The punchline (10 seconds)
 
 This would normally fail at runtime. Symbolverse refuses to run it *at all*.
 
