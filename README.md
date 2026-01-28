@@ -96,8 +96,9 @@ This plan *looks* fine. It parses. It’s what agents produce all the time.
 ```
 ✗ Structural error
 
+Casting failed at 'Notify'
+
 Branch condition: channel == "email"
-'Notify' casting error
 Required: 'EmailPayload'
 Provided: 'SMSPayload'
 
