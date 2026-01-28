@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-a computing environment for symbolic workflows you can reason about before you run them
+a computing environment for symbolic workflows you can validate before you run them
 
 ---
 
