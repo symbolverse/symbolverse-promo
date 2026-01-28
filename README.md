@@ -104,13 +104,10 @@ Provided: 'SMSPayload'
 This plan is structurally inadmissible.
 ```
 
-...
 
 ### Step 4 — The punchline (5 seconds)
 
-This would normally fail at runtime.
-
-Symbolverse refuses to run it *at all*.
+This would normally fail at runtime. Symbolverse refuses to run it *at all*.
 
 ```
 // WORK IN PROGRESS //
