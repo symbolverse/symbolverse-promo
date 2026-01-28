@@ -104,7 +104,7 @@ This plan *looks* fine. It parses. It’s what agents produce all the time.
 ```
 ✗ Structural error
 
-Cast fails at function 'Notify'
+'Cast' fail at function 'Notify'
 
 Branch condition: channel == "email"
 Required: 'EmailPayload'
