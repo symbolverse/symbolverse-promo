@@ -81,7 +81,7 @@ It does not infer intent.
 
 It checks structure, and nothing else.
 
-When a workflow is structurally inadmissible, Symbolverse reports *where* the mismatch occurs — missing capability, incompatible interface, impossible branch, invalid projection.
+When a workflow is structurally inadmissible, Symbolverse reports *where* the mismatch occurs — missing capability, incompatible interface, invalid projection.
 
 When a workflow is admissible, Symbolverse offers no guarantees beyond that fact.
 
