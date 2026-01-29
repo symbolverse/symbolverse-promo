@@ -8,7 +8,7 @@
 
 ---
 
-## The Seed
+## Why This Exists
 
 Most tools help you act faster.
 
@@ -24,7 +24,7 @@ This is not a productivity tool. It is a thinking space.
 
 ---
 
-## The Fruits
+## What It Is
 
 Symbolverse is a workspace for **structural reasoning**.
 
@@ -61,7 +61,7 @@ Because most failures do not come from bad intentions or low intelligence — th
 
 ---
 
-## The Essence
+## How It Works
 
 Symbolverse is a **structural validator for symbolic workflows**.
 
