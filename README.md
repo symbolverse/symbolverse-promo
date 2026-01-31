@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-*A workspace for people who care whether their thinking actually holds.*
+*A workspace for people who care whether their thinking actually holds.* 
 
 ---
 
