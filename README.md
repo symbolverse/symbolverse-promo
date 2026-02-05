@@ -55,8 +55,8 @@ Only text.
 Only structure.
 Only what you are willing to make explicit.
 
-This is not a productivity tool.
-It is a **thinking checkpoint**.
+This is not a speed tool.
+It is a **correctness checkpoint**.
 
 ---
 
