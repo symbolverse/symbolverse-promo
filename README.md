@@ -150,29 +150,6 @@ If the structure fails, it fails *early*, explicitly, and without apology.
 
 ---
 
-## Who This Is For
-
-Symbolverse is not for everyone.
-
-It is for people who:
-
-* feel uneasy relying on “this should work”
-* have been burned by plans that failed late instead of early
-* care about where their certainty actually ends
-* prefer “undecidable” to “probably fine”
-* want discipline, not reassurance
-
-Programmers who think in contracts.
-Researchers who respect constraints.
-System designers who cannot afford silent failure.
-LLM users who want a hard boundary between fluency and validity.
-
-If you are looking for speed, automation, or answers — this will frustrate you.
-
-If you are looking for a way to stop lying to yourself about what you know — you may feel strangely at home.
-
----
-
 ## A Final Note
 
 Symbolverse makes no claims about intelligence, truth, or correctness.
