@@ -105,12 +105,6 @@ they come from steps that never could have followed from one another in the firs
 
 Symbolverse is a **symbolic checker, not a symbolic reasoner**.
 
-It does not execute workflows.
-It does not interpret meaning.
-It does not infer intent.
-
-It checks **structure only**.
-
 A workflow is treated as a sequence of explicit claims about what follows from what.
 
 When a workflow is structurally inadmissible, Symbolverse reports *where* the mismatch occurs:
