@@ -10,14 +10,14 @@
 
 ## TOC
 
-- [summary](#summary)
+- [Summary](#summary)
 - [Why This Exists](#why-this-exists)
 - [What It Is](#what-it-is)
 - [How It Works](#how-it-works)
 - [Why Use This With LLMs](#why-use-this-with-llms)
 - [A Final Note](#a-final-note)
 
-## summary
+## Summary
 
 Symbolverse is a **deterministic symbolic checker**.
 
