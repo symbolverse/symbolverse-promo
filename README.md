@@ -62,7 +62,7 @@ It is a **correctness checkpoint**.
 
 ## What It Is
 
-Symbolverse is a workspace for **structural reasoning**.
+Symbolverse is a workspace for **structural checking**.
 
 You use it to describe things such as:
 
