@@ -32,9 +32,6 @@ Symbolverse exists for a different moment — the moment *before* action, when s
 
 > “This sounds correct… but do I actually know that it holds?”
 
-LLMs are especially good at producing reasoning that *looks* coherent.
-They are much worse at signaling where assumptions slip, interfaces don’t match, or steps silently depend on capabilities that were never declared.
-
 Symbolverse begins from a refusal.
 
 A refusal to smooth over gaps.
