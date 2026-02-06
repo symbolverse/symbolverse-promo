@@ -11,6 +11,7 @@
 ## TOC
 
 - [Summary](#summary)
+- [A Small Example](#a-small-example)
 - [Why This Exists](#why-this-exists)
 - [What It Is](#what-it-is)
 - [How It Works](#how-it-works)
