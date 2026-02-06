@@ -39,12 +39,12 @@ It tells you where it stops making sense.
 Example (simplified):
 
 User proposes:
-- Step A produces (Data d)
-- Step B requires (Config c)
+- Step A produces `Data`
+- Step B requires `Config`
 
 Symbolverse:
 ✗ Refusal at Step B
-  Missing requirement: (Config c)
+  Missing requirement: `Config`
 ```
 
 ---
