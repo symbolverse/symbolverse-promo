@@ -32,6 +32,21 @@ It does not try to fix your plan.
 It tells you where it stops making sense.
 
 ---
+## A Small Example
+
+```
+Example (simplified):
+
+LLM proposes:
+- Step A produces (Data d)
+- Step B requires (Config c)
+
+Symbolverse:
+✗ Refusal at Step B
+  Missing requirement: (config c)
+```
+
+---
 
 ## Why This Exists
 
