@@ -23,7 +23,7 @@
 Symbolverse is a referentially transparent **symbolic checker**.
 
 You describe a workflow in terms of **explicit inputs, outputs, assumptions, and constraints**.
-Symbolverse then mechanically checks whether each step can *structurally* follow from the previous ones — or **refuses** if it cannot.
+Symbolverse then mechanically checks whether each step can *structurally* follow from the previous ones — or **refuses** if it cannot — all prior to running the workflow.
 
 No inference.
 No heuristics.
