@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-*A symbolic checker for explicit workflows*
+*A symbolic checker for explicit workflows* 
 
 ---
 
