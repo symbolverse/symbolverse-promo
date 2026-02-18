@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-*A symbolic checker for explicit workflows*
+*It checks whether your workflow actually makes sense — before you run it.*
 
 ---
 
