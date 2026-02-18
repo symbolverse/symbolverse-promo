@@ -15,7 +15,6 @@
 - [Why This Exists](#why-this-exists)
 - [What It Is](#what-it-is)
 - [How It Works](#how-it-works)
-- [Why Use This With LLMs](#why-use-this-with-llms)
 - [A Final Note](#a-final-note)
 
 ## Summary
@@ -139,34 +138,6 @@ When a workflow is admissible, Symbolverse offers **no further guarantees**.
 
 This limitation is deliberate.
 It is what keeps the system honest.
-
----
-
-## Why Use This With LLMs
-
-LLMs are excellent proposal engines.
-
-They generate:
-
-* plans
-* explanations
-* reasoning chains
-* architectures
-* strategies
-
-They are much weaker at enforcing the discipline of:
-
-* declared assumptions
-* consistent interfaces
-* admissible transitions
-* explicit uncertainty
-
-Symbolverse provides that discipline — externally.
-
-The model proposes.
-The checker disposes.
-
-If the structure fails, it fails *early*, explicitly, and without apology.
 
 ---
 
